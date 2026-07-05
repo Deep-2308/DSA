@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! -
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/Deep-2308/DSA/tree/main/0048-rotate-image/) | Medium |
 | [0075-sort-colors](https://github.com/Deep-2308/DSA/tree/main/0075-sort-colors/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Deep-2308/DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 ## Two Pointers
@@ -20,4 +21,12 @@ Collection of LeetCode questions to ace the coding interview! -
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Deep-2308/DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0048-rotate-image](https://github.com/Deep-2308/DSA/tree/main/0048-rotate-image/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0048-rotate-image](https://github.com/Deep-2308/DSA/tree/main/0048-rotate-image/) | Medium |
 <!---LeetCode Topics End-->
