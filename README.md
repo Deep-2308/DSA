@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! -
 | [0075-sort-colors](https://github.com/Deep-2308/DSA/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Deep-2308/DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Deep-2308/DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0169-majority-element](https://github.com/Deep-2308/DSA/tree/main/0169-majority-element/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Deep-2308/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -25,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! -
 | [0056-merge-intervals](https://github.com/Deep-2308/DSA/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/Deep-2308/DSA/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Deep-2308/DSA/tree/main/0088-merge-sorted-array/) | Easy |
+| [0169-majority-element](https://github.com/Deep-2308/DSA/tree/main/0169-majority-element/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -47,4 +49,16 @@ Collection of LeetCode questions to ace the coding interview! -
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Deep-2308/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/Deep-2308/DSA/tree/main/0169-majority-element/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/Deep-2308/DSA/tree/main/0169-majority-element/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/Deep-2308/DSA/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
