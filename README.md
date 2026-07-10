@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! -
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/Deep-2308/DSA/tree/main/0048-rotate-image/) | Medium |
 | [0056-merge-intervals](https://github.com/Deep-2308/DSA/tree/main/0056-merge-intervals/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/Deep-2308/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Deep-2308/DSA/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/Deep-2308/DSA/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Deep-2308/DSA/tree/main/0088-merge-sorted-array/) | Easy |
@@ -39,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! -
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/Deep-2308/DSA/tree/main/0048-rotate-image/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/Deep-2308/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Deep-2308/DSA/tree/main/0074-search-a-2d-matrix/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -52,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! -
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Deep-2308/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0169-majority-element](https://github.com/Deep-2308/DSA/tree/main/0169-majority-element/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
