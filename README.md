@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! -
 | ------- | ------- |
 | [0031-next-permutation](https://github.com/Deep-2308/DSA/tree/main/0031-next-permutation/) | Medium |
 | [0048-rotate-image](https://github.com/Deep-2308/DSA/tree/main/0048-rotate-image/) | Medium |
+| [0053-maximum-subarray](https://github.com/Deep-2308/DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0056-merge-intervals](https://github.com/Deep-2308/DSA/tree/main/0056-merge-intervals/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Deep-2308/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Deep-2308/DSA/tree/main/0074-search-a-2d-matrix/) | Medium |
@@ -34,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! -
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/Deep-2308/DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0118-pascals-triangle](https://github.com/Deep-2308/DSA/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Deep-2308/DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 ## Math
@@ -63,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! -
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/Deep-2308/DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/Deep-2308/DSA/tree/main/0169-majority-element/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
