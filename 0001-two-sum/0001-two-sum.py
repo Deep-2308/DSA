@@ -1,35 +1,48 @@
 """
 =========================================
-Problem: 1. Two Sum (Easy)
+Problem: 1. Two Sum (Variant: Two Pointers / Sorted)
 =========================================
 
 CHEAT SHEET:
-* Trigger: "Find two numbers that add up to a target", "Return their indices".
-* Trap: The O(N^2) nested loop. A secondary trap is adding all numbers to the hash map *before* checking, which can accidentally use the same element twice if the target is exactly double a number. 
-* Mechanism: Single-pass Hash Map.
-    1. Create an empty dictionary `mp` to store {number: index}.
-    2. Loop through the array using `enumerate` to get both index and value simultaneously.
-    3. Calculate the required `complement` (target - current value).
-    4. If the complement is already in the dictionary, you found the pair. Return the indices.
-    5. Otherwise, store the current value and its index in the dictionary for future checks.
+* Trigger: "Array is already sorted and find two numbers that sum to target", or "Two Sum II".
+* Trap: Using this approach on an UNSORTED array when you need original indices! Sorting an unsorted array takes O(N log N) time and storing index tuples takes O(N) space, making it strictly slower than a single-pass Hash Map O(N).
+* Mechanism: The Two-Pointer Inward Crunch.
+    1. Place the `left` pointer at index 0 and the `right` pointer at the last index.
+    2. Calculate `current_sum = arr[left] + arr[right]`.
+    3. If `current_sum == target`, you found the winning pair!
+    4. If `current_sum < target`, the sum is too small. Move the `left` pointer one step right to grab a larger number.
+    5. If `current_sum > target`, the sum is too big. Move the `right` pointer one step left to grab a smaller number.
+    6. Repeat until the pointers cross.
 
 Complexity:
-* Time: O(N) because we iterate once and dictionary lookups take O(1) time.
-* Space: O(N) to store the dictionary.
+* Time: O(N log N) if unsorted due to sorting; strictly O(N) if the input array is already sorted!
+* Space: O(N) to store index tuples; strictly O(1) if already sorted and values are returned directly.
 =========================================
 """
 
 class Solution:
     def twoSum(self, arr, target):
-        mp = {}
-        for i, num in enumerate(arr):
-            complement = target - num
+        # Create list of tuples (value, original_index) to preserve indices
+        nums_with_index = [(num, idx) for idx, num in enumerate(arr)]
+        
+        # Sort based strictly on the integer values
+        nums_with_index.sort(key=lambda x: x[0])
+
+        left = 0
+        right = len(arr) - 1
+        
+        while left < right:
+            current_sum = nums_with_index[left][0] + nums_with_index[right][0]
             
-            if complement in mp:
-                return [mp[complement], i]
+            if current_sum == target:
+                return [nums_with_index[left][1], nums_with_index[right][1]]
+            elif current_sum < target:
+                # Sum too small -> increment left pointer to increase total
+                left += 1
+            else:
+                # Sum too large -> decrement right pointer to decrease total
+                right -= 1
                 
-            mp[num] = i
-            
         return [-1, -1]
 
 # ---------------------------------------
@@ -40,4 +53,4 @@ if __name__ == "__main__":
     arr = [2, 6, 5, 8, 11]
     target = 14
 
-    print("Indices: {}".format(sol.twoSum(arr, target)))
+    print("Indices found via Two-Pointer: {}".format(sol.twoSum(arr, target)))
