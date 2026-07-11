@@ -22,35 +22,58 @@ Complexity:
 
 class Solution:
     def twoSum(self, arr, target):
-        # Create list of tuples (value, original_index) to preserve indices
+        # Store each number with its original index
+        # Example:
+        # arr = [2, 6, 5, 8, 11]
+        # nums_with_index = [(2,0), (6,1), (5,2), (8,3), (11,4)]
         nums_with_index = [(num, idx) for idx, num in enumerate(arr)]
-        
-        # Sort based strictly on the integer values
+
+        # Sort the list by the number (first element of each tuple)
+        # After sorting:
+        # [(2,0), (5,2), (6,1), (8,3), (11,4)]
         nums_with_index.sort(key=lambda x: x[0])
 
+        # Two pointers
         left = 0
         right = len(arr) - 1
-        
+
+        # Keep checking until the pointers meet
         while left < right:
-            current_sum = nums_with_index[left][0] + nums_with_index[right][0]
-            
+
+            # Current sum of the left and right values
+            current_sum = (
+                nums_with_index[left][0] +
+                nums_with_index[right][0]
+            )
+
+            # If the target is found, return the ORIGINAL indices
             if current_sum == target:
-                return [nums_with_index[left][1], nums_with_index[right][1]]
+                return [
+                    nums_with_index[left][1],
+                    nums_with_index[right][1]
+                ]
+
+            # Sum is too small
+            # Move left pointer right to increase the sum
             elif current_sum < target:
-                # Sum too small -> increment left pointer to increase total
                 left += 1
+
+            # Sum is too large
+            # Move right pointer left to decrease the sum
             else:
-                # Sum too large -> decrement right pointer to decrease total
                 right -= 1
-                
+
+        # No pair found
         return [-1, -1]
 
-# ---------------------------------------
+
+# -------------------------
 # Local Testing
-# ---------------------------------------
+# -------------------------
 if __name__ == "__main__":
     sol = Solution()
+
     arr = [2, 6, 5, 8, 11]
     target = 14
 
-    print("Indices found via Two-Pointer: {}".format(sol.twoSum(arr, target)))
+    print(sol.twoSum(arr, target))
