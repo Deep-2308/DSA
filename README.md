@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! -
 | [0088-merge-sorted-array](https://github.com/Deep-2308/DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0118-pascals-triangle](https://github.com/Deep-2308/DSA/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Deep-2308/DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0152-maximum-product-subarray](https://github.com/Deep-2308/DSA/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0169-majority-element](https://github.com/Deep-2308/DSA/tree/main/0169-majority-element/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Deep-2308/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Two Pointers
@@ -39,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! -
 | [0053-maximum-subarray](https://github.com/Deep-2308/DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0118-pascals-triangle](https://github.com/Deep-2308/DSA/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Deep-2308/DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0152-maximum-product-subarray](https://github.com/Deep-2308/DSA/tree/main/0152-maximum-product-subarray/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
