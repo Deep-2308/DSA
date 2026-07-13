@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! -
 | [0152-maximum-product-subarray](https://github.com/Deep-2308/DSA/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0169-majority-element](https://github.com/Deep-2308/DSA/tree/main/0169-majority-element/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Deep-2308/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0735-asteroid-collision](https://github.com/Deep-2308/DSA/tree/main/0735-asteroid-collision/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -75,4 +76,12 @@ Collection of LeetCode questions to ace the coding interview! -
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Deep-2308/DSA/tree/main/0169-majority-element/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0735-asteroid-collision](https://github.com/Deep-2308/DSA/tree/main/0735-asteroid-collision/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0735-asteroid-collision](https://github.com/Deep-2308/DSA/tree/main/0735-asteroid-collision/) | Medium |
 <!---LeetCode Topics End-->
