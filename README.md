@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! -
 | [0118-pascals-triangle](https://github.com/Deep-2308/DSA/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Deep-2308/DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/Deep-2308/DSA/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Deep-2308/DSA/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0169-majority-element](https://github.com/Deep-2308/DSA/tree/main/0169-majority-element/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Deep-2308/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0735-asteroid-collision](https://github.com/Deep-2308/DSA/tree/main/0735-asteroid-collision/) | Medium |
@@ -56,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! -
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Deep-2308/DSA/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Deep-2308/DSA/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Deep-2308/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
