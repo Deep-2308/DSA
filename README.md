@@ -101,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! -
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/Deep-2308/DSA/tree/main/0050-powx-n/) | Medium |
+| [0206-reverse-linked-list](https://github.com/Deep-2308/DSA/tree/main/0206-reverse-linked-list/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -125,4 +126,8 @@ Collection of LeetCode questions to ace the coding interview! -
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/Deep-2308/DSA/tree/main/0062-unique-paths/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/Deep-2308/DSA/tree/main/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
