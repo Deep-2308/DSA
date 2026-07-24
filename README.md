@@ -133,5 +133,6 @@ Collection of LeetCode questions to ace the coding interview! -
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Deep-2308/DSA/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Deep-2308/DSA/tree/main/0206-reverse-linked-list/) | Easy |
+| [0237-delete-node-in-a-linked-list](https://github.com/Deep-2308/DSA/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Deep-2308/DSA/tree/main/0876-middle-of-the-linked-list/) | Easy |
 <!---LeetCode Topics End-->
