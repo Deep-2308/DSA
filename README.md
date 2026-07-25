@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! -
 | [0048-rotate-image](https://github.com/Deep-2308/DSA/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/Deep-2308/DSA/tree/main/0050-powx-n/) | Medium |
 | [0062-unique-paths](https://github.com/Deep-2308/DSA/tree/main/0062-unique-paths/) | Medium |
+| [2235-add-two-integers](https://github.com/Deep-2308/DSA/tree/main/2235-add-two-integers/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Deep-2308/DSA/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
