@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! -
 | [0048-rotate-image](https://github.com/Deep-2308/DSA/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/Deep-2308/DSA/tree/main/0050-powx-n/) | Medium |
 | [0062-unique-paths](https://github.com/Deep-2308/DSA/tree/main/0062-unique-paths/) | Medium |
+| [0258-add-digits](https://github.com/Deep-2308/DSA/tree/main/0258-add-digits/) | Easy |
 | [2235-add-two-integers](https://github.com/Deep-2308/DSA/tree/main/2235-add-two-integers/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/Deep-2308/DSA/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Deep-2308/DSA/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
@@ -101,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! -
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0258-add-digits](https://github.com/Deep-2308/DSA/tree/main/0258-add-digits/) | Easy |
 | [0735-asteroid-collision](https://github.com/Deep-2308/DSA/tree/main/0735-asteroid-collision/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
@@ -110,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! -
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0258-add-digits](https://github.com/Deep-2308/DSA/tree/main/0258-add-digits/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/Deep-2308/DSA/tree/main/2413-smallest-even-multiple/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Deep-2308/DSA/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Binary Indexed Tree
