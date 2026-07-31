@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! -
 | [0050-powx-n](https://github.com/Deep-2308/DSA/tree/main/0050-powx-n/) | Medium |
 | [0062-unique-paths](https://github.com/Deep-2308/DSA/tree/main/0062-unique-paths/) | Medium |
 | [0258-add-digits](https://github.com/Deep-2308/DSA/tree/main/0258-add-digits/) | Easy |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Deep-2308/DSA/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [2235-add-two-integers](https://github.com/Deep-2308/DSA/tree/main/2235-add-two-integers/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/Deep-2308/DSA/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Deep-2308/DSA/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
