@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! -
 | [2235-add-two-integers](https://github.com/Deep-2308/DSA/tree/main/2235-add-two-integers/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/Deep-2308/DSA/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Deep-2308/DSA/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
+| [2652-sum-multiples](https://github.com/Deep-2308/DSA/tree/main/2652-sum-multiples/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Deep-2308/DSA/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
