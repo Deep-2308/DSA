@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! -
 | [0287-find-the-duplicate-number](https://github.com/Deep-2308/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0493-reverse-pairs](https://github.com/Deep-2308/DSA/tree/main/0493-reverse-pairs/) | Hard |
 | [0735-asteroid-collision](https://github.com/Deep-2308/DSA/tree/main/0735-asteroid-collision/) | Medium |
+| [1920-build-array-from-permutation](https://github.com/Deep-2308/DSA/tree/main/1920-build-array-from-permutation/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -107,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! -
 | ------- | ------- |
 | [0258-add-digits](https://github.com/Deep-2308/DSA/tree/main/0258-add-digits/) | Easy |
 | [0735-asteroid-collision](https://github.com/Deep-2308/DSA/tree/main/0735-asteroid-collision/) | Medium |
+| [1920-build-array-from-permutation](https://github.com/Deep-2308/DSA/tree/main/1920-build-array-from-permutation/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
