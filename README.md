@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! -
 | [0735-asteroid-collision](https://github.com/Deep-2308/DSA/tree/main/0735-asteroid-collision/) | Medium |
 | [1920-build-array-from-permutation](https://github.com/Deep-2308/DSA/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Deep-2308/DSA/tree/main/1929-concatenation-of-array/) | Easy |
+| [2942-find-words-containing-character](https://github.com/Deep-2308/DSA/tree/main/2942-find-words-containing-character/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -149,4 +150,8 @@ Collection of LeetCode questions to ace the coding interview! -
 | [0206-reverse-linked-list](https://github.com/Deep-2308/DSA/tree/main/0206-reverse-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/Deep-2308/DSA/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Deep-2308/DSA/tree/main/0876-middle-of-the-linked-list/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2942-find-words-containing-character](https://github.com/Deep-2308/DSA/tree/main/2942-find-words-containing-character/) | Easy |
 <!---LeetCode Topics End-->
