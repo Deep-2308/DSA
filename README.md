@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! -
 | [0001-two-sum](https://github.com/Deep-2308/DSA/tree/main/0001-two-sum/) | Easy |
 | [0031-next-permutation](https://github.com/Deep-2308/DSA/tree/main/0031-next-permutation/) | Medium |
 | [0048-rotate-image](https://github.com/Deep-2308/DSA/tree/main/0048-rotate-image/) | Medium |
+| [0049-group-anagrams](https://github.com/Deep-2308/DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/Deep-2308/DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0056-merge-intervals](https://github.com/Deep-2308/DSA/tree/main/0056-merge-intervals/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Deep-2308/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
@@ -39,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! -
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/Deep-2308/DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/Deep-2308/DSA/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/Deep-2308/DSA/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Deep-2308/DSA/tree/main/0088-merge-sorted-array/) | Easy |
@@ -87,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! -
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Deep-2308/DSA/tree/main/0001-two-sum/) | Easy |
+| [0049-group-anagrams](https://github.com/Deep-2308/DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Deep-2308/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0169-majority-element](https://github.com/Deep-2308/DSA/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/Deep-2308/DSA/tree/main/0229-majority-element-ii/) | Medium |
@@ -153,5 +156,6 @@ Collection of LeetCode questions to ace the coding interview! -
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/Deep-2308/DSA/tree/main/0049-group-anagrams/) | Medium |
 | [2942-find-words-containing-character](https://github.com/Deep-2308/DSA/tree/main/2942-find-words-containing-character/) | Easy |
 <!---LeetCode Topics End-->
