@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! -
 | [1920-build-array-from-permutation](https://github.com/Deep-2308/DSA/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Deep-2308/DSA/tree/main/1929-concatenation-of-array/) | Easy |
 | [2942-find-words-containing-character](https://github.com/Deep-2308/DSA/tree/main/2942-find-words-containing-character/) | Easy |
+| [3674-minimum-operations-to-equalize-array](https://github.com/Deep-2308/DSA/tree/main/3674-minimum-operations-to-equalize-array/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -85,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! -
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Deep-2308/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [3674-minimum-operations-to-equalize-array](https://github.com/Deep-2308/DSA/tree/main/3674-minimum-operations-to-equalize-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -158,4 +160,8 @@ Collection of LeetCode questions to ace the coding interview! -
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/Deep-2308/DSA/tree/main/0049-group-anagrams/) | Medium |
 | [2942-find-words-containing-character](https://github.com/Deep-2308/DSA/tree/main/2942-find-words-containing-character/) | Easy |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3674-minimum-operations-to-equalize-array](https://github.com/Deep-2308/DSA/tree/main/3674-minimum-operations-to-equalize-array/) | Easy |
 <!---LeetCode Topics End-->
